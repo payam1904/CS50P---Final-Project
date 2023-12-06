@@ -1,0 +1,37 @@
+# **Bible Quiz**
+#### Video Demo: <URL HERE>
+
+# General info
+
+If you want to test your biblical knowledge in basic level, you are in the right place. In this game, you are required to answer 10 multiple options random questions from the old and new testament of the bible.
+
+Whatever your age or sex is, you can play this game. The important thing is to answer as many questions as you can, and then you will be able to compare your score with both your highest score in the previous games and the highest score ever gained in the game by other players. Whenever the game finishes, the obtained score will be stored on the database as yours according to the given name in the beginning of the game.
+
+There is no negative point in this game, so you can enjoy playing and competing with your friends. However, you will be challenged by having limited time which is 15 seconds for each question.
+
+# **How to play**
+
+## Entering your name:
+
+When you run the program, in the first window, you are asked to give your name in order to find your highest score in previous games and also to save your new score. Only alphabetical characters are allowed in this section.
+If you don't want to give your name, you can play as "guest". Your given name will automatically be conformed to "Title-case". You will be guided step by step to make sure your score will be saved either in your name or as "_guest_"
+
+## Welcome screen
+
+After entering you name, you will receive a personal welcome message. You will be able to double-check your name.
+You will see the instructions of the game in your welcome screen. When you feel ready, you are required to press "Ready" button in order to start the game.
+
+## Start
+
+After pressing the "Ready" button, a new window will show up that has 3 sections.
+
+```
+1. Info section: here you can see your name, your highest score, the highest score of the game, remaining time for the current question, your score so far, number of the current question.
+2.Question section: Your first question will be revealed to you as the game starts.
+3. Options section: You will have to choose the correct answer for the question among 4 given options. You are required to press one of the four given options that you think is the correct answer.
+```
+Be aware of your remaining time as you will lose the point for the current question if your 15 second is up.
+
+## End of the game
+
+When 10 questions are finished, the game will end, and you will see your result. Your score, will be saved on the database as soon as you see the result window. You will then have the exit button to exit the game.
